@@ -71,6 +71,5 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/gonca-zeliha/gonca-zeliha/output/snake.svg" alt="Snake animation" />
-###
+
 
