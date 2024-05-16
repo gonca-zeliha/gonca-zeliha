@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Ben Gonca ,  QA Test Uzmanı , İstanbul/Türkiye </p>
+<p align="left">Ben Gonca ,  QA Test Uzmanı ,İstanbul/Türkiye 🇹🇷 </p>
 
 ###
 
