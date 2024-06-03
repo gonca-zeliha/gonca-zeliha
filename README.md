@@ -15,7 +15,7 @@
 ###
 <img align="right" margin-top="10px" margin-bottom="10px" alt="GIF" src="https://i.pinimg.com/originals/2c/27/d1/2c27d1186016923c8ebca12d9246dc16.gif" width="200" height="200"/>
 
-<p align="center">COMPETENCES💻</p>
+<p align="center"> LANGUAGES AND TOOLS💻</p>
 
 ###
 
