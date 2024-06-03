@@ -69,8 +69,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gonca-zeliha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/gonca-zeliha/count.svg?"  />
 </div>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=000000&center=true&random=false&width=435&lines=Thanks+for+visiting+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
