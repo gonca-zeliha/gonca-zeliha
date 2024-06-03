@@ -1,19 +1,15 @@
-<h2 align="left">Hi👋</h2>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17B062&random=false&width=435&lines=Welcome+to+my+profile+%F0%9F%8D%80;Hi+there+%E2%9C%8C%EF%B8%8F;I+am+Zeliha+Ko%C3%A7+Demirci+%F0%9F%92%9A;Software+Testing+Specialist+%F0%9F%92%BB;Istanbul%2F+Turkey" alt="Typing SVG" /></a></div>
+
+###
+<div align="center">
+<h3> ABOUT 👩‍💻</h3></div>
 
 ###
 
-<p align="left">>I am Gonca , Software Quality Tester ,Istanbul/Turkey🇹🇷 </p>
+<p align="center"> I am an experienced teacher with a technology-oriented education background. During my career, the experiences I gained by educating my students in areas such as robotic coding, STEM workshops and experiment laboratories shaped my interest in software. I decided that the closest field to my profession is Software Quality and Testing Expertise. I strive to reach a professional level with the trainings I have received and the projects I have developed in order to improve my competencies in this field.</p>
 
 ###
-
-<h3 align="left"> ABOUT 👩‍💻</h3>
-
-###
-
-<p align="left"> I am an experienced teacher with a technology-oriented education background. During my career, the experiences I gained by educating my students in areas such as robotic coding, STEM workshops and experiment laboratories shaped my interest in software. I decided that the closest field to my profession is Software Quality and Testing Expertise. I strive to reach a professional level with the trainings I have received and the projects I have developed in order to improve my competencies in this field.</p>
-
-###
-<img align="right" margin-top="10px" margin-bottom="10px" alt="GIF" src="https://i.pinimg.com/originals/2c/27/d1/2c27d1186016923c8ebca12d9246dc16.gif" width="200" height="200"/>
 
 <p align="center"> LANGUAGES AND TOOLS💻</p>
 
