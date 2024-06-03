@@ -1,21 +1,21 @@
-<h2 align="left">Merhaba👋</h2>
+<h2 align="left">Hi👋</h2>
 
 ###
 
-<p align="left">Ben Gonca ,  QA Test Uzmanı ,İstanbul/Türkiye 🇹🇷 </p>
+<p align="left">>I am Gonca , Software Quality Tester ,Istanbul/Turkey🇹🇷 </p>
 
 ###
 
-<h3 align="left">HAKKINDA 👩‍💻</h3>
+<h3 align="left"> ABOUT 👩‍💻</h3>
 
 ###
 
-<p align="left">Teknoloji odaklı eğitim geçmişine sahip deneyimli bir öğretmenim. Kariyerim sırasında robotik kodlama, STEM atölyesi ve deney laboratuvarları gibi alanlarda öğrencilerimi yetiştirerek edindiğim deneyimler, yazılım alanına olan ilgimi şekillendirdi. Mesleğime en yakın alanın Yazılım Kalite ve Test Uzmanlığı olduğuna karar verdim. Bu alandaki yetkinliklerimi geliştirmek amacıyla aldığım eğitimler ve geliştirdiğim projeler ile profesyonel bir seviyeye ulaşma gayretindeyim.</p>
+<p align="left"> I am an experienced teacher with a technology-oriented education background. During my career, the experiences I gained by educating my students in areas such as robotic coding, STEM workshops and experiment laboratories shaped my interest in software. I decided that the closest field to my profession is Software Quality and Testing Expertise. I strive to reach a professional level with the trainings I have received and the projects I have developed in order to improve my competencies in this field.</p>
 
 ###
 <img align="right" margin-top="10px" margin-bottom="10px" alt="GIF" src="https://i.pinimg.com/originals/2c/27/d1/2c27d1186016923c8ebca12d9246dc16.gif" width="200" height="200"/>
 ###
-<p align="center">YETKİNLİKLERİM💻</p>
+<p align="center">COMPETENCES💻</p>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<p align="center">İLETİŞİM 👇</p>
+<p align="center"> CONTACT 👇</p>
 
 ###
 
@@ -73,5 +73,5 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/gonca-zeliha/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/gonca-zeliha/count.svg?"  />
 </div>
