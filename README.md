@@ -75,4 +75,7 @@
   <img src="https://profile-counter.glitch.me/gonca-zeliha/count.svg?"  />
 </div>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=000000&center=true&random=false&width=435&lines=Thanks+for+visiting+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=90379E&center=true&random=false&width=435&lines=Thanks+for+visiting+%F0%9F%92%9C" alt="Typing SVG" /></a>
